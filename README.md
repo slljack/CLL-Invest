@@ -29,6 +29,7 @@ In this project, we designed and built a webApp that allows customer to trade st
 * Produce a list of stock suggestions for a given customer
 
 ![](CustomerOptions.png)
+![](SearchStock.png)
 
 ***
 ### Customer-Level Transactions
@@ -42,7 +43,7 @@ In this project, we designed and built a webApp that allows customer to trade st
 * Produce Best_Seller list of stocks
 * Personalized stock suggestion list
 
-![](SearchStock.png)
+
 
 *** 
 ### LogIn Information
