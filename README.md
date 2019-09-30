@@ -1,6 +1,6 @@
 CLL Invest (Stock Trading System)
 ========
-**Authors:** [@slljack](https://github.com/slljack), [James Cimino](James.cimino@stonybrook.edu), and [Andrew Liu](andrew.liu@stonybrook.edu)
+**Authors:** [slljack](https://github.com/slljack), [James C](James.cimino@stonybrook.edu), and [Andrew L](andrew.liu@stonybrook.edu)
 
 
 
