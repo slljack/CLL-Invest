@@ -3,7 +3,7 @@ Stock Trading System
 **Authors:** [@slljack](https://github.com/slljack), [James Cimino](https://github.com/aandycen), and [Andrew Liu](andrew.liu@stonybrook.edu)
 
 ***
-In this project we designed a database in MySQL. The database stores the information of customers, employees, and managers. This database also has many built-in transactions. The database is running behind a webpage that includes all the user interface.
+In this project, we designed a database in MySQL. This database stores the information of Stocks, customers, employees, and managers. This database also has many built-in transactions and is running behind a webpage that includes all the user interface.
 
 ***
 ### Manager-Level Transactions
