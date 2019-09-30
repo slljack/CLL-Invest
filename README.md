@@ -2,12 +2,12 @@ CLL Invest (Stock Trading System)
 ========
 **Authors:** [@slljack](https://github.com/slljack), [James Cimino](James.cimino@stonybrook.edu), and [Andrew Liu](andrew.liu@stonybrook.edu)
 
-![](Login.png)
+
 
 ***
 In this project, we designed and built a webApp that allows customer to trade stocks. The database is desugned in MySQL. This database stores the information of Stocks, customers, employees, and managers. This database also has many built-in transactions and is running behind a webpage that includes all the user interface. For the server we used TomCat 9.0.
 
-
+![](LogIn.png)
 ![](ManagerOptions.png)
 ***
 ### Manager-Level Transactions
@@ -42,7 +42,7 @@ In this project, we designed and built a webApp that allows customer to trade st
 * Produce Best_Seller list of stocks
 * Personalized stock suggestion list
 
-![](SearchStock)
+![](SearchStock.png)
 
 *** 
 ### LogIn Information
